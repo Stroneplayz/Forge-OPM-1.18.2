@@ -1,0 +1,31 @@
+{
+    "item.opm_strone.yellow_silk": "Yellow Silk",
+    "item.opm_strone.red_silk": "Red Silk",
+    "item.opm_strone.dark_red_silk": "Dark Red Silk",
+    "item.opm_strone.silk": "Silk Cacoon",
+    "item.opm_strone.finished_silk": "Silk",
+    "item.opm_strone.blue_silk": "Light Blue Silk",
+    "item.opm_strone.black_silk": "Black Silk",
+    "item.opm_strone.dark_blue_silk": "Blue Silk",
+    "item.opm_strone.gray_silk": "Gray Silk",
+    "item.opm_strone.green_silk": "Green Silk",
+    "item.opm_strone.light_gray_silk": "Light Gray Silk",
+    "item.opm_strone.lime_silk": "Lime Silk",
+    "item.opm_strone.orange_silk": "Orange Silk",
+    "item.opm_strone.pink_silk": "Pink Silk",
+    "item.opm_strone.violet_silk": "Violet Silk",
+
+    "item.opm_strone.gi_chest": "GI Chest",
+    "item.opm_strone.gi_leggings": "GI Legs",
+
+    "item.opm_strone.saitama_suit_helmet": "Saitama's Head",
+    "item.opm_strone.saitama_suit_chest": "Saitama's Chest",
+    "item.opm_strone.saitama_suit_leggings": "Saitama's Legs",
+    "item.opm_strone.saitama_suit_boots": "Saitama's Boots",
+
+    "item.opm_strone.weights_w": "Weak Weights",
+    "item.opm_strone.weights_m": "Medium Weights",
+    "item.opm_strone.weights_h": "Heavy Weights",
+
+    "itemGroup.onepunchman": "One punch man"
+}
